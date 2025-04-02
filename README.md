@@ -1,4 +1,3 @@
-# Leica Geosystems Assignment
 ## _Implementation of Elastic Search In Django Restful with CRUD_
 
 Django Elastic Search Implementation with ACL.
